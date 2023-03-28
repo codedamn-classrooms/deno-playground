@@ -1,0 +1,2 @@
+terminals: ['curl -fsSL https://deno.land/x/install/install.sh | sh && export DENO_INSTALL="/home/damner//.deno" && export PATH="$DENO_INSTALL/bin:$PATH" && deno run --allow-env --allow-net=0.0.0.0  main.ts ']
+tabs: ["main.ts"]
